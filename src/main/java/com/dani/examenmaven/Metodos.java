@@ -6,12 +6,9 @@
 package com.dani.examenmaven;
 
 import java.io.IOException;
-import static java.rmi.server.LogStream.log;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
-import org.jsoup.nodes.Element;
+
 
 /**
  * Clase con métodos para sacar el título de una web y para sacar código HTML.

@@ -12,6 +12,7 @@ package com.dani.examenmaven;
 public class Aplicacion{
 
     /**
+     * Clase principal dónde de llaman a los métodos que sacan el título y el tiempo de una web.
      * @param args the command line arguments
      */
     public static void main(String[] args){
